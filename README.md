@@ -16,6 +16,7 @@
        alt="snake" /></a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=LibertyCitys&abbreviated=true)
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **I♥LC, SWRP, EUP**
+- 🔭 I’m currently working on **LC:MP, SWRP, EUP**
 
 - 📝 I own a XTS5000 so im cool. 
 
