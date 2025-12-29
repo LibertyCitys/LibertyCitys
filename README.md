@@ -23,7 +23,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **LC:MP, SWRP, EUP**
+- 🔭 I’m currently working on **LCP, LC-G, EUP**
 
 - 📝 I own a XTS5000 so im cool. 
 
